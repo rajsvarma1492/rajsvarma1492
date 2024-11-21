@@ -7,6 +7,7 @@ Skills: Power BI, DAX, Power Query, SQL, Azure Data Factory, Azure Data Lake Gen
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajsvarma1492&show_icons=true)  
 
-### My portfolio projects
+### Portfolio projects
 
 <a href="https://github.com/rajsvarma1492/chocolate_sales">Chocolate Sales Report</a>
+<a href="https://github.com/rajsvarma1492/pizza_sales">Chocolate Sales Report</a>
